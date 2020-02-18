@@ -1,4 +1,4 @@
-﻿﻿# Data-structures-Algorithms-Final-Project
+# Data-structures-Algorithms-Final-Project
 This is a project of the "Data structures and Algorithms" class. Simple file compressor/decompressor.
 
 ## Đề bài: 
